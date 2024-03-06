@@ -1,0 +1,144 @@
+body{
+    
+    padding: 2px;
+    margin: 0;
+   
+    
+} 
+
+ul li{
+    list-style-type: none;
+    float: right;
+    width: 120px
+    color: solid black;
+    padding: 20px 10px;
+    font-size: 17px;
+    display: block;
+    font-family:Arial;
+    font-weight: bold;   
+}
+ol {
+    color: solid black;
+    background-color: white;
+    list-style-type: circle;
+    margin-right: 80%;
+    padding: 10px;
+    color: blue;
+
+}
+span {
+    color: darkblue;
+}
+header {
+    background-color: aqua;
+    padding: 10px;
+    border-bottom: blue 3px solid;
+
+}
+}
+
+h1 {
+    font-weight: bold;
+}
+h2 {
+    text-align: center;
+}
+
+h3 {
+    font-size: larger;
+    background-color: cadetblue;
+    padding: 20px;
+    margin: left 5px;
+    margin-right: 70%;
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+section .h2, p{
+    text-align: center;
+}
+header .highlight, header .focus a{
+    color: blue;
+}
+
+nav a:hover{
+    background: skyblue;
+    
+}
+nav a {
+    color: black;
+}
+
+.container {
+    max-width: 100%;
+    margin: auto;
+    background: #f2f2f2;
+    overflow: initial;
+}
+.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 290px;
+    text-align: center;
+}
+.gallery img {
+    width: 400px;
+    height: 250px;
+}   
+.img_deg{
+    float: left;
+    width: 40%;
+}
+nav a:focus {
+    background-color: #e8491d;
+}
+p .p1 {
+    color: seashell;
+}
+
+}
+/*sidebar*/
+aside#sidebar{
+	float: right;
+    background-color: darksalmon;
+    margin-top: 30px;
+    text-align: center;
+    padding: 60px;
+    
+
+	
+	
+}
+/*main*/
+#main{
+    min-height:480px;
+    background-color: bisque;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-style: italic;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+    background-image : url('img 2/1696451232738.jpg');
+    }
+    hr {
+        color: blue;
+    }
+    footer {
+        background-color: greenyellow;
+        color: black;
+        font-size: 18px;
+        padding: 35px;
+        text-align: center;
+        position: absolute;
+        right: 0;
+        left: 0;
+        bottom: 0;
+
+    }
+    #mains{
+        background-color: gray;
+    }
+  
